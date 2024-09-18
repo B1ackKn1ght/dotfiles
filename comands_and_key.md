@@ -1,6 +1,7 @@
 # Useful commands
 
-
+Get information for a window. This information can be used to start applications in specific workspace.
+  xprop | grep WM_CLASS
 
 # Useful key bindings
 
@@ -27,3 +28,10 @@
   return or esc - back to normal mode
 
   $mod + [l, k, j] - resize active window
+
+# Installed packages
+
+Lock screen for i3:
+  sudo pacman -S i3lock
+Programm to display immages
+  sudo pacman -S feh
