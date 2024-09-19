@@ -3,6 +3,9 @@
 Get information for a window. This information can be used to start applications in specific workspace.
   xprop | grep WM_CLASS
 
+Get name and infos about network adapters
+  ip link
+
 # Useful key bindings
 
 ## i3 
