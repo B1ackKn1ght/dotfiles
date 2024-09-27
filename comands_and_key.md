@@ -32,6 +32,11 @@ Get name and infos about network adapters
 
   $mod + [l, k, j] - resize active window
 
+## fzf fuzzy finding
+    CTRL+t - Search for a file in the current directory and sub-directories.
+    CTRL+r - Search for an entry in the command history.
+    ALT+c - Allow you to select a sub-directory and make it your working directory.
+
 # Installed packages
 
 Lock screen for i3:
